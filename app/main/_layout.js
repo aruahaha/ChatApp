@@ -1,7 +1,7 @@
 import { Stack } from "expo-router";
 
-const StackLayout = () => {
+const IndexLayout = () => {
   return <Stack screenOptions={{ headerShown: false }} />;
 };
 
-export default StackLayout;
+export default IndexLayout;
